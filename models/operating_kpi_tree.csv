@@ -1,0 +1,8 @@
+metric,definition,target_30d,target_90d,why_it_matters
+Activation rate,Connected transaction data and completed first health-score review,35%,55%,Measures whether onboarding reaches the core use case
+Categorization precision,Reviewed transactions correctly categorized,85%,92%,Trust breaks if financial interpretation is wrong
+CAC payback,CAC divided by monthly gross profit,<4 months,<3 months,Keeps GTM viable for low-ARPA MSMEs
+Pro conversion,Activated users converting to Rs 799/month Pro tier,8%,15%,Validates willingness to pay
+Weekly active usage,Users viewing dashboard or alerts weekly,35%,50%,Proxy for retention before long cohorts mature
+Partner qualified leads,SMBs sourced by accountant/consultant/lender partners,20,200,Tests scalable CAC advantage
+Lender-readiness exports,Users exporting credit-readiness packet,5,50,Measures embedded-finance wedge pull

@@ -1,0 +1,10 @@
+phase,workstream,owner,deliverable,success_metric
+Days 0-30,ICP validation,Founder,25 accountant/MSME interviews,15+ qualified pain confirmations
+Days 0-30,Product wedge,Product,Credit-readiness score prototype,5 pilot users connect transaction data
+Days 0-30,Compliance framing,Ops,Readiness-not-lending policy note,No loan-decision language in product
+Days 31-60,Pilot acquisition,Growth,CA/consultant channel pilot,"50 SMBs onboarded at CAC below Rs 1,400"
+Days 31-60,Data quality,Analytics,Categorization audit loop,90%+ category precision on reviewed transactions
+Days 31-60,Pricing,Founder,Pro tier paid test,10 paid users at Rs 799/month
+Days 61-90,Partner motion,BD,2 lender/accounting platform LOIs,One partner pilot scoped
+Days 61-90,Retention,Product,Receivables/cashflow alerts,30-day active usage above 55%
+Days 61-90,Investment case,Founder,Investor-ready metrics memo,"CAC, activation, retention, and payback tracked weekly"

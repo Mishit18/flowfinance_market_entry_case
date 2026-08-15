@@ -1,0 +1,10 @@
+scenario,arpa_change,cac_change,churn_change,pro_ltv_inr,pro_payback_months,decision
+Base,0.00,0.00,0.00,14414,2.14,Proceed
+ARPA down 25%,-0.25,0.00,0.00,10811,2.86,Proceed with tighter CAC cap
+ARPA up 25%,0.25,0.00,0.00,18018,1.71,Proceed aggressively
+CAC up 25%,0.00,0.25,0.00,14414,2.68,Proceed if channel quality holds
+CAC down 25%,0.00,-0.25,0.00,14414,1.61,Proceed aggressively
+Churn up 25%,0.00,0.00,0.25,11531,2.14,Proceed with retention risk
+Churn down 25%,0.00,0.00,-0.25,19219,2.14,Proceed aggressively
+Bear case,-0.25,0.25,0.25,8650,3.57,Proceed only via partner-led CAC
+Bull case,0.25,-0.25,-0.25,24023,1.29,Proceed aggressively

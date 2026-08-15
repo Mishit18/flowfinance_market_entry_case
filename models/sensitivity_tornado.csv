@@ -1,0 +1,7 @@
+scenario,delta_ltv,delta_payback
+ARPA down 25%,-3603,0.7199999999999998
+Churn up 25%,-2883,0.0
+CAC up 25%,0,0.54
+CAC down 25%,0,-0.53
+ARPA up 25%,3604,-0.43000000000000016
+Churn down 25%,4805,0.0

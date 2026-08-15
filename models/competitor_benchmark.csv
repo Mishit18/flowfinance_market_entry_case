@@ -1,0 +1,6 @@
+competitor_type,examples,strength,weakness,flowfinance_position
+Accounting software,Tally/Zoho Books,High trust and workflow depth,Analytics and credit-readiness not primary,Differentiate through health score and lender-facing analytics
+Payment aggregators,Razorpay/Paytm/PhonePe,Transaction data and distribution,Merchant analytics often tied to payments stack,Partner rather than compete; consume consented transaction exports
+Lenders/NBFCs,Lendingkart/Kinara/etc.,Capital supply and underwriting,May lack daily operating context,Offer pre-underwriting analytics and borrower-readiness layer
+Bank dashboards,Current-account portals,Trust and regulated rails,Low customization for small merchants,Provide cross-account/category-level operating view
+Generic BI tools,Power BI/Looker,Flexible reporting,Too complex for MSME workflows,Verticalized SMB financial health product

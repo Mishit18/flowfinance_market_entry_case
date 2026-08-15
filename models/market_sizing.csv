@@ -1,0 +1,9 @@
+segment,assumption,value,unit,source_note
+TAM,Indian MSMEs addressable count,63000000,businesses,Publicly cited MSME universe rounded for case modeling
+TAM,Digitally reachable MSME share,0.35,share,Assumption: UPI/accounting/GST/digital payments adoption proxy
+TAM,Annual analytics willingness-to-pay,3600,INR per business,Rs 300/month entry analytics tier
+SAM,Serviceable urban/semi-urban digital MSME share,0.18,share,Initial ICP reachable through accountants/fintech partners
+SAM,Annual blended ARPA,7200,INR per business,Weighted across starter/pro/growth tiers
+SOM,Year-1 obtainable customers,2500,businesses,Bottom-up GTM capacity assumption
+SOM,Year-2 obtainable customers,12500,businesses,Partner-led scale assumption
+SOM,Year-3 obtainable customers,50000,businesses,Requires lender/accountant channel partnerships
