@@ -1,6 +1,17 @@
 # FlowFinance SMB Embedded Finance Market Entry Case
 
-Consulting-style market-entry and GTM case for FlowFinance, a full venture/product built from scratch for MSME financial intelligence. The case supports the broader venture story: product codebase, customer acquisition, user/customer deck, partnership materials, pricing, TAM/SAM/SOM, unit economics, and investor-ready fundraising narrative.
+Consulting-style market-entry and GTM case for [FlowFinance](https://www.flowfinancebusiness.com), an MSME financial-intelligence product. The repository separates observed pilot/product evidence from modeled market-sizing and unit-economics assumptions.
+
+## Verified Public Product Evidence
+
+- The application is publicly accessible at [flowfinancebusiness.com](https://www.flowfinancebusiness.com).
+- Deployment used AWS EC2 and RDS within a VPC, with Secrets Manager for application credentials.
+- Transaction workflows covered 81,813 mixed anonymized and generated records across 28 categories.
+- FlowFinance ran one-month free pilots with 10+ MSMEs; 10+ returned after initial use.
+- FlowFinance did not generate revenue during this period; no paid-customer claim is made.
+
+See [`docs/public_product_evidence.md`](docs/public_product_evidence.md) and
+[`models/pilot_evidence.csv`](models/pilot_evidence.csv) for the public evidence boundary.
 
 ## What This Demonstrates
 
@@ -20,13 +31,15 @@ Enter through a **credit-readiness and cashflow-health analytics wedge**, not th
 
 ## Venture Collateral
 
-Private customer decks and partner documents are maintained outside this public repository. This repo contains the public-facing strategy case, model assumptions, evidence pack, and validation scripts used to defend the market-entry recommendation.
+Private customer decks and partner documents are maintained outside this public repository. This repo contains the public-facing strategy case, modeled assumptions, aggregate pilot evidence, and validation scripts used to defend the market-entry recommendation.
 
 | Artifact | Location | Purpose |
 |---|---|---|
 | Market-entry case | `docs/market_entry_deck.md` | Strategy/Ops interview and founder's-office evidence |
 | Executive summary | `docs/executive_summary.md` | One-page recommendation |
 | Case defense | `docs/case_interview_defense.md` | Interview-ready assumptions, risks, and tradeoffs |
+| Public product evidence | `docs/public_product_evidence.md` | Deployment, pilot, and data-provenance boundaries |
+| Pilot evidence | `models/pilot_evidence.csv` | Aggregate and non-confidential pilot facts |
 
 ## Key Outputs
 
@@ -46,7 +59,7 @@ Private customer decks and partner documents are maintained outside this public 
 
 ## Resume Bullet
 
-- Built consulting-style FlowFinance market-entry case for MSME embedded-finance analytics: sized TAM/SAM/SOM, benchmarked competitors, modeled three-tier pricing and CAC/LTV economics, and recommended a credit-readiness analytics wedge before lender partnerships.
+- Co-founded FlowFinance, an AWS-deployed MSME financial-intelligence product; ran one-month free pilots with 10+ MSMEs, processed 81,813 mixed anonymized/generated records, and built a market-entry case covering TAM/SAM/SOM, pricing, and partner economics.
 
 ## Validation
 

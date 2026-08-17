@@ -1,0 +1,11 @@
+metric,value,qualification
+pilot_clients,10+,one-month free pilots
+returned_after_initial_use,10+,returned for another financial review
+paid_clients,0,no paid-customer claim
+revenue_inr,0,no venture revenue during the stated period
+records_evaluated,81813,mixed anonymized and generated records
+transaction_categories,28,rule-first and LLM-assisted workflow taxonomy
+deployment_compute,AWS EC2,public service-level claim only
+deployment_database,AWS RDS,public service-level claim only
+deployment_network,AWS VPC,public service-level claim only
+credential_management,AWS Secrets Manager,public service-level claim only
